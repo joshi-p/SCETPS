@@ -1,6 +1,6 @@
 # SCETPS
 
-This project is currently under development and commits will be made as the project progresses.
+This project is currently under development and commits will be made as the project progresses. The tech stack used are Flutter, Node.JS and MySQL.
 
 # We refer to this build as beta v0.5
 
