@@ -1,8 +1,8 @@
-# scetps
+# SCETPS
 
-# This project is currently under development and commits will be made as the project progresses
+This project is currently under development and commits will be made as the project progresses.
 
-# we refer to this build as beta v0.5
+# We refer to this build as beta v0.5
 
 ![image](https://github.com/user-attachments/assets/df6c940a-7e74-4cda-b136-e81347f4e516)
 
