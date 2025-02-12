@@ -1,16 +1,12 @@
 # scetps
 
-A new Flutter project.
+# This project is currently under development and commits will be made as the project progresses
 
-## Getting Started
+# we refer to this build as beta v0.5
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/user-attachments/assets/df6c940a-7e74-4cda-b136-e81347f4e516)
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/user-attachments/assets/a24ed7e9-84a0-49f4-879c-9e445087205d)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/user-attachments/assets/09c3f8a5-9bbe-4245-b3d9-c531987f342d)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
