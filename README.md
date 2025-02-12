@@ -4,6 +4,8 @@ This project is currently under development and commits will be made as the proj
 
 # We refer to this build as beta v0.5
 
+# Snapshots of the build
+
 ![image](https://github.com/user-attachments/assets/df6c940a-7e74-4cda-b136-e81347f4e516)
 
 ![image](https://github.com/user-attachments/assets/a24ed7e9-84a0-49f4-879c-9e445087205d)
